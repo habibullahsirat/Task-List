@@ -58,7 +58,7 @@ php artisan key:generate
 
 ## Running the App
 ```bash
-- php artisan serve
+php artisan serve
 ```
 
 ## Folder Structure
